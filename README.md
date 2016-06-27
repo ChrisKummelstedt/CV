@@ -1,6 +1,6 @@
 <h1>Curriculum Vitae - Christopher Kummelstedt</h1>
 
-<P>I am 30 years old and I love new experiences. I have lived, worked and studided in Sweden, The UK, China and The United States. Before starting coding I graduated with top grades from the best business school in the Nordic countries where I am about to start a phd.</P>
+<P>I am 30 years old and I love new experiences. I have lived, worked and studided in Sweden, The UK, China and The United States. Before starting coding I graduated with top grades from the best business school in the Nordic countries where I am about to start a phd centered around the opportuntities afforded by digitalisation on the sustainability prosepects of communtities experiencing water stress.</P>
 
 <h1>Experience</h1>
 <h3>Head of Operations - Global Business Labs</h3>
