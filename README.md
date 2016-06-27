@@ -20,11 +20,11 @@
 <h1>Education</h1>
 
 <h3>Stockholm School of Economics - GPA 4.33</h3>
-<h4>M.Sc. in General Mangement - 2014 - 2015</h4>
+<h4>M.Sc. in General Mangement, 2014 - 2015</h4>
 <p>Graduated with some of the best grades in my year. SSE don't publicise relative rankings but I was in top 10% in the majority of my classes. I won the "best thesis award" for my masters disertation and was offered a phd position at the school. I also did a ton of extra curricular stuff. For instance. I participated in the "Eniro Case Competition": As a member of a five person team I worked alongside senior staff members and presented infront of the CEO and CFO. I also did a case competition for Microsoft Sweden: In a team of six we conceived a new marketing strategy for millenials based on a value driven approaced that we presented to the VP of marketing. Also started the Hult Prize at the school (the worlds biggest social enterprise competition with ties to The Clinton Global Foundation).</p>
 
 <h3>Stockholm School of Economics - 1st degree (Hons)</h3>
-<h4>B.a. in Economics and Sociology - 2006 – 2009</h4>
+<h4>B.a. in Economics and Sociology, 2006 – 2009</h4>
 <p>Graduated with first degree honors but focused most of my time on extra curriculur stuff. I was the Vice President of my College student committee. Head of fundraising for the flagship event for the student unions charity arm. Did PR for the studennt helpline and worked as a on-call volounteer. Was on the basketball team, a DJ and radio host on the student radio. Did 200 hours of community service and got the cetrificate of "Millenium Volounteer" from the university.</p>
 
 <h1>About me</h1>
