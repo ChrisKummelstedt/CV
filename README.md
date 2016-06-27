@@ -37,5 +37,7 @@
 
 <P>One; everyone must be seen and heard. That is both how the vision becomes as strong and realistic as possible, and how the team becomes endowed with the intrisic motivation necessary to build something beautiful. Secondly - as everything can be improved, stay perpetually in beta. Honor the permanent revolution. Take the time to reflect on wheter something is effective and not mearly efficient. Three, create vunerable spaces - people are incredible when they are themselves.</P>
 
+<P>If you think about the world in a similar way, I would love to speak to you about what we could build together.</P>
+
 
 
