@@ -1,6 +1,6 @@
 <h1>Curriculum Vitae - Christopher Kummelstedt</h1>
 
-<P>My name is Chris and I am 30 years old. I have lived in Sweden, The UK, China and The United States. Before starting coding I graduated with top grades from the best business school in the Nordic countries where I am about to start a phd.</P>
+<P>My name is Chris and I am 30 years old. I have lived, worked and studided in Sweden, The UK, China and The United States. Before starting coding I graduated with top grades from the best business school in the Nordic countries where I am about to start a phd.</P>
 
 <h1>Experience</h1>
 <h3>Head of Operations - Global Business Labs</h3>
